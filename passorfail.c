@@ -1,4 +1,5 @@
 #include <stdio.h>
+// To Find students pass or fail.
 
 int main() {
     int marks;
